@@ -1,0 +1,150 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #3b2f2f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+nav {
+    background-color: #bf8367;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* HERO SECTION */
+.hero {
+    background: linear-gradient(to right, #a47551, #5c4033);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+/* ABOUT SECTION */
+.about {
+    padding: 40px;
+    text-align: center;
+}
+
+.about img {
+    width: 300px;
+    margin: 20px 0;
+}
+
+
+.genres {
+    background-color: #f4f4f4;
+    padding: 40px;
+    text-align: center;
+}
+
+.genre-box {
+    display: inline-block;
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    width: 200px;
+}
+section {
+    margin-bottom: 40px;
+}
+
+.table-section {
+    padding: 40px;
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #555;
+}
+
+th {
+    background-color: #5c4033;
+    color: white;
+}
+
+td, th {
+    padding: 10px;
+}
+
+
+.community {
+    background-color: #f4f4f4;
+    padding: 40px;
+    text-align: center;
+}
+
+.community ul li {
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+
+
+.contact {
+    padding: 40px;
+    text-align: center;
+}
+
+form {
+    width: 350px;
+    margin: 20px auto;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+
+button {
+    background-color: #5c4033;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #a47551;
+}
+
+footer a {
+    margin: 0 8px;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+
+
+
